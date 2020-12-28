@@ -1,6 +1,6 @@
 # docs
 
-## Tool and utilities
+## Tools and utilities
 
 MacOS source code highlighting tool (+ quick look plugin)
 https://github.com/sbarex/SourceCodeSyntaxHighlight
