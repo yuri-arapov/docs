@@ -16,5 +16,17 @@ vim: vim-go
 
 vim: NERDtree
 
+vim (and standalone): cscope - c/c++ code explorer
+
+jq - JSON processor
+
+
+## worth to try
+
+asciidoctor - text processor and publishing tool (asciidoctor.org)
+
+pq - heard from Dave Cheney on Go Time podcast 
+
+
 <end of file>
   
