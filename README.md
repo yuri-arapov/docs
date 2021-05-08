@@ -27,6 +27,7 @@ asciidoctor - text processor and publishing tool (asciidoctor.org)
 
 pq - heard from Dave Cheney on Go Time podcast 
 
+VS Code - development IDE (good for Go): https://code.visualstudio.com/
 
 <end of file>
   
