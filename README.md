@@ -29,5 +29,21 @@ pq - heard from Dave Cheney on Go Time podcast
 
 VS Code - development IDE (good for Go): https://code.visualstudio.com/
 
+## useful hacks
+
+### VS Code Vim Extention
+
+Repeat sending "key pressed" event when holding a key down: https://stackoverflow.com/questions/39972335/how-do-i-press-and-hold-a-key-and-have-it-repeat-in-vscode 
+To disable the Apple press and hold for VSCode only, run this command in a terminal:
+
+`defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false`
+Then restart VSCode.
+
+To re-enable, run this command in a terminal:
+
+`defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool true`
+
+
+
 <end of file>
   
